@@ -57,7 +57,7 @@ The Excel dataset `TikTok_Engagement_50videos.xlsx` contains the following colum
 ```
 2. Ensure the dataset `TikTok_Engagement_50videos.xlsx` is saved in:
 ```bash
-`Desktop/Spreadsheet/TikTok_Engagement_50videos.xlsx`
+Desktop/Spreadsheet/TikTok_Engagement_50videos.xlsx
 ```
 
 3. Run the Python script:  
