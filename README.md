@@ -1,4 +1,4 @@
-# TikTok Engagement Dashboard (1-Hour Project)
+# TikTok Engagement Dashboard 
 
 ## Project Overview
 This project simulates and analyzes engagement metrics for 50 TikTok videos. The goal is to demonstrate **product thinking, data analysis, and actionable insights** for TikTok content strategies. It is designed as a **quick, high-impact project** suitable for demonstrating skills to recruiters or for resume enhancement.
